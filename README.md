@@ -1,1 +1,1 @@
-# ML-Boston-House-price-prediction
+# ML-Practice projects.
